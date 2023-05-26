@@ -8,14 +8,21 @@
 body {
     height: 100vh;
 }
+/* please use rem & vh as units  */
 
 /* nav starts here */
 
 /* nav ends here  */
 
-/* main starts here  */
+/* section1 starts here  */
+/* use flexbox */
 
-/* main ends here  */
+/* section1 ends here  */
+
+/* section2 starts here  */
+/* use flexbox */
+
+/* section2 ends here  */
 
 /* footer starts here  */
 
